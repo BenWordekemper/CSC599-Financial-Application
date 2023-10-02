@@ -1,0 +1,20 @@
+/* Signup.css */
+/* Import shared styles from Login.css */
+@import url('./Login.css');
+
+/* Additional styles for the Signup page */
+.form-container {
+  margin-right: auto;
+  margin-left: 200px;
+}
+
+.icon-container-inner {
+  background-color: white;
+}
+
+.icon-container-outter {
+  background-color: rgb(220, 220, 220);
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
